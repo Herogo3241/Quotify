@@ -21,7 +21,7 @@ npm install puppeteer
 4. Run the web scraping script:
 
 ```bash
-node scrape-quotes.js
+node index.js
 ```
 
 This script will visit the website, extract quotes, authors, and then store them in a JSON file.
