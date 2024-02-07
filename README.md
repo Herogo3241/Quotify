@@ -32,8 +32,8 @@ This part of the project involves creating a Chrome extension to display random 
 Here is an example of how it looks
 
 <p align="center">
-  <img src="images/quote1" width="400" />
-  <img src="images/quote2" width="400" />
+  <img src="images/quote1.png" width="400" />
+  <img src="images/quote2.png" width="400" />
 </p>
 
 ### Getting Started
@@ -51,7 +51,5 @@ Once the extension is loaded, you can click on its icon in the Chrome toolbar to
 ## Conclusion
 
 This project showcases the use of Puppeteer for web scraping and building a simple Chrome extension to utilize the scraped data. Feel free to explore and extend it further according to your requirements!
-
-For any questions or feedback, please open an issue in the repository or contact [your_email@example.com](mailto:your_email@example.com).
 
 Happy coding! 🚀
